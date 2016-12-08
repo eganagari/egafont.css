@@ -1,0 +1,2 @@
+# egafont.css
+Costume Font
